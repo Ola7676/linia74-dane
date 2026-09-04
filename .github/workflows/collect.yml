@@ -5,6 +5,10 @@ on:
     - cron: "*/10 * * * *"
   workflow_dispatch:
 
+concurrency:
+  group: gtfs-collect
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -31,5 +35,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Aktualizacja danych $(date -u +'%Y-%m-%d %H:%M:%S')"
+          git diff --quiet && git diff --staged --quiet && exit 0
+          git commit -m "Aktualizacja danych $(date -u +'%Y-%m-%d %H:%M:%S')"
+          git pull --rebase origin main
           git push
