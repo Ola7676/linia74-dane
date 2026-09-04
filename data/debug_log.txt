@@ -1,0 +1,1 @@
+2026-09-04T10:19:32.447289+00:00 | trip_updates: encji=370, dopasowanych_wierszy=318, z_surowym_delay=0
