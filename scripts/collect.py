@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 import requests
 from google.transit import gtfs_realtime_pb2
 
-TARGET_LINES = {"74", "704", "708", "18", "50"}
+TARGET_LINES = {"74", "704", "708"}
 
 GTFS_ZIP_URL = "https://gtfs.ztp.krakow.pl/GTFS_KRK_T.zip"
 TRIP_UPDATES_URL = "https://gtfs.ztp.krakow.pl/TripUpdates_T.pb"
