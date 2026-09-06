@@ -320,3 +320,4 @@
 2026-09-06T19:30:52.815156+00:00 | trip_updates: encji=194, dopasowanych_wierszy=232, z_surowym_delay=0
 2026-09-06T19:41:35.954162+00:00 | trip_updates: encji=192, dopasowanych_wierszy=231, z_surowym_delay=0
 2026-09-06T19:50:41.588918+00:00 | trip_updates: encji=198, dopasowanych_wierszy=232, z_surowym_delay=0
+2026-09-06T20:00:57.080885+00:00 | trip_updates: encji=201, dopasowanych_wierszy=231, z_surowym_delay=0
