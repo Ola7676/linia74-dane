@@ -480,3 +480,4 @@
 2026-09-08T02:54:11.416465+00:00 | trip_updates: encji=218, dopasowanych_wierszy=186, z_surowym_delay=0
 2026-09-08T03:00:46.890329+00:00 | trip_updates: encji=233, dopasowanych_wierszy=187, z_surowym_delay=0
 2026-09-08T03:19:37.464841+00:00 | trip_updates: encji=310, dopasowanych_wierszy=224, z_surowym_delay=0
+2026-09-08T03:31:43.902937+00:00 | trip_updates: encji=329, dopasowanych_wierszy=220, z_surowym_delay=0
