@@ -118498,3 +118498,7 @@ collected_at,route_short_name,route_id,trip_id,stop_id,stop_sequence,raw_arrival
 2026-09-13T21:34:25.221172+00:00,74,,block_642_trip_15_service_3,stop_253_42319,0,,,,
 2026-09-13T21:34:25.221172+00:00,74,,block_642_trip_15_service_3,stop_9_17,0,,,,
 2026-09-13T21:34:25.221172+00:00,74,,block_642_trip_15_service_3,stop_267_45919,0,,,,
+2026-09-13T21:43:15.571377+00:00,74,,block_642_trip_15_service_3,stop_12_21,0,,,,
+2026-09-13T21:43:15.571377+00:00,74,,block_642_trip_15_service_3,stop_253_42319,0,,,,
+2026-09-13T21:43:15.571377+00:00,74,,block_642_trip_15_service_3,stop_9_17,0,,,,
+2026-09-13T21:43:15.571377+00:00,74,,block_642_trip_15_service_3,stop_267_45919,0,,,,
