@@ -2011,3 +2011,4 @@
 2026-09-20T08:29:39.037101+00:00 | trip_updates: encji=202, dopasowanych_wierszy=234, z_surowym_delay=0
 2026-09-20T08:39:10.286589+00:00 | trip_updates: encji=202, dopasowanych_wierszy=239, z_surowym_delay=0
 2026-09-20T08:46:48.576284+00:00 | trip_updates: encji=203, dopasowanych_wierszy=232, z_surowym_delay=0
+2026-09-20T08:53:12.153845+00:00 | trip_updates: encji=201, dopasowanych_wierszy=235, z_surowym_delay=0
