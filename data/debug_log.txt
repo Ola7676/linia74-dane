@@ -2005,3 +2005,4 @@
 2026-09-20T07:26:58.074206+00:00 | trip_updates: encji=198, dopasowanych_wierszy=230, z_surowym_delay=0
 2026-09-20T07:34:56.414849+00:00 | trip_updates: encji=198, dopasowanych_wierszy=231, z_surowym_delay=0
 2026-09-20T07:43:07.911805+00:00 | trip_updates: encji=195, dopasowanych_wierszy=227, z_surowym_delay=0
+2026-09-20T07:51:11.096288+00:00 | trip_updates: encji=202, dopasowanych_wierszy=232, z_surowym_delay=0
