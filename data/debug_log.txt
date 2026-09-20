@@ -2013,3 +2013,4 @@
 2026-09-20T08:46:48.576284+00:00 | trip_updates: encji=203, dopasowanych_wierszy=232, z_surowym_delay=0
 2026-09-20T08:53:12.153845+00:00 | trip_updates: encji=201, dopasowanych_wierszy=235, z_surowym_delay=0
 2026-09-20T09:00:53.473881+00:00 | trip_updates: encji=198, dopasowanych_wierszy=231, z_surowym_delay=0
+2026-09-20T09:17:42.937815+00:00 | trip_updates: encji=200, dopasowanych_wierszy=236, z_surowym_delay=0
