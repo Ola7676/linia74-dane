@@ -1980,3 +1980,4 @@
 2026-09-20T02:53:07.853032+00:00 | trip_updates: encji=109, dopasowanych_wierszy=113, z_surowym_delay=0
 2026-09-20T03:00:44.783351+00:00 | trip_updates: encji=115, dopasowanych_wierszy=108, z_surowym_delay=0
 2026-09-20T03:18:54.785537+00:00 | trip_updates: encji=127, dopasowanych_wierszy=154, z_surowym_delay=0
+2026-09-20T03:29:57.456046+00:00 | trip_updates: encji=125, dopasowanych_wierszy=153, z_surowym_delay=0
