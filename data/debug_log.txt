@@ -1971,3 +1971,4 @@
 2026-09-20T01:26:31.068548+00:00 | trip_updates: encji=21, dopasowanych_wierszy=0, z_surowym_delay=0
 2026-09-20T01:34:25.778476+00:00 | trip_updates: encji=18, dopasowanych_wierszy=0, z_surowym_delay=0
 2026-09-20T01:43:11.185137+00:00 | trip_updates: encji=20, dopasowanych_wierszy=0, z_surowym_delay=0
+2026-09-20T01:51:54.842752+00:00 | trip_updates: encji=25, dopasowanych_wierszy=14, z_surowym_delay=0
