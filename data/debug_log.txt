@@ -2676,3 +2676,4 @@
 2026-09-25T17:18:10.772304+00:00 | trip_updates: encji=349, dopasowanych_wierszy=286, z_surowym_delay=0
 2026-09-25T17:29:00.997958+00:00 | trip_updates: encji=340, dopasowanych_wierszy=278, z_surowym_delay=0
 2026-09-25T17:39:42.676092+00:00 | trip_updates: encji=340, dopasowanych_wierszy=271, z_surowym_delay=0
+2026-09-25T17:49:00.602362+00:00 | trip_updates: encji=325, dopasowanych_wierszy=273, z_surowym_delay=0
