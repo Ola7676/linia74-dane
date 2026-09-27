@@ -2879,3 +2879,4 @@
 2026-09-27T06:23:54.997214+00:00 | trip_updates: encji=187, dopasowanych_wierszy=228, z_surowym_delay=0
 2026-09-27T06:39:14.204126+00:00 | trip_updates: encji=195, dopasowanych_wierszy=227, z_surowym_delay=0
 2026-09-27T06:51:33.714462+00:00 | trip_updates: encji=203, dopasowanych_wierszy=227, z_surowym_delay=0
+2026-09-27T07:01:21.732635+00:00 | trip_updates: encji=199, dopasowanych_wierszy=227, z_surowym_delay=0
