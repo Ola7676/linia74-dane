@@ -3385,3 +3385,4 @@
 2026-10-01T22:07:06.930726+00:00 | trip_updates: encji=27, dopasowanych_wierszy=4, z_surowym_delay=0
 2026-10-01T22:20:22.253870+00:00 | trip_updates: encji=13, dopasowanych_wierszy=0, z_surowym_delay=0
 2026-10-01T22:35:26.426473+00:00 | trip_updates: encji=3, dopasowanych_wierszy=0, z_surowym_delay=0
+2026-10-01T22:46:51.779519+00:00 | trip_updates: encji=0, dopasowanych_wierszy=0, z_surowym_delay=0
