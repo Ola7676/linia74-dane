@@ -621341,3 +621341,5 @@ collected_at,route_short_name,route_id,trip_id,stop_id,stop_sequence,raw_arrival
 2026-11-09T19:10:03.913870+00:00,74,,block_16_trip_12_service_1,stop_257_43519,0,,,,
 2026-11-09T19:10:03.913870+00:00,74,,block_16_trip_12_service_1,stop_342_268519,0,,,,
 2026-11-09T19:10:03.913870+00:00,74,,block_16_trip_12_service_1,stop_258_44219,0,,,,
+2026-11-10T02:01:14.595282+00:00,74,,block_14_trip_3_service_1,stop_299_63219,0,,,,
+2026-11-10T02:01:14.595282+00:00,74,,block_14_trip_7_service_1,stop_841_317619,0,,,,
