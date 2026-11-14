@@ -624498,3 +624498,6 @@ collected_at,route_short_name,route_id,trip_id,stop_id,stop_sequence,raw_arrival
 2026-11-14T19:26:01.662475+00:00,74,,block_179_trip_12_service_2,stop_191_7729,0,,,,
 2026-11-14T19:26:01.662475+00:00,74,,block_179_trip_12_service_2,stop_219_32239,0,,,,
 2026-11-14T19:26:01.662475+00:00,74,,block_179_trip_12_service_2,stop_325_136029,0,,,,
+2026-11-14T23:11:16.376190+00:00,74,,block_183_trip_15_service_2,stop_253_42319,0,,,,
+2026-11-14T23:11:16.376190+00:00,74,,block_183_trip_15_service_2,stop_9_17,0,,,,
+2026-11-14T23:11:16.376190+00:00,74,,block_183_trip_15_service_2,stop_267_45919,0,,,,
